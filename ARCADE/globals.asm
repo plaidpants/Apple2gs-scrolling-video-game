@@ -1,0 +1,1 @@
+         case  onScreen          gequ $012000Palette         gequ $019E00ScreenWidth     gequ 160ScreenHeight    gequ 200PlayfieldX      gequ 2PlayfieldY      gequ 4PlayfieldWidth  gequ 128PlayfieldHeight gequ 192
